@@ -1,0 +1,21 @@
+.ms{
+    width: 400px;
+    height: 400px;
+    border-radius: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 15px double red;
+    margin: 5px;
+    margin-left: 25px;
+}
+ms:hover{
+    background-color: red;
+    cursor: auto;
+}
+.ms{
+    font-size: 4.5em;
+}
+.it{
+    display: inline;
+}
